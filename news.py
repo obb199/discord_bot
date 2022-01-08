@@ -1,6 +1,6 @@
 """
 Here you find other web scrapping, to find links of news. All links used stay on a txt archive to bot don't send
-the same link.
+the same link twice.
 """
 
 from urllib.request import urlopen
